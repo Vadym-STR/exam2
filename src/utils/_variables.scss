@@ -1,0 +1,13 @@
+$whiteColor: #fff;
+$grayColor: gray;
+$blackColor: #000;
+
+@include addFont("fontawesome");
+@include addFont("gotham_bold");
+@include addFont("gotham_book");
+@include addFont("gotham_medium_regular");
+
+$fontIcon: "fontawesome";
+$fontBold: "gotham_bold";
+$fontBook: "gotham_book";
+$font: "gotham_medium_regular";

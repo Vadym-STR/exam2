@@ -1,0 +1,8 @@
+.modal {
+    background: gray;
+
+/* якшо немає класу .modal_active то modal не показується */
+    &:not(&_active) {
+        display: none;
+    }
+}

@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+[hidden] {
+    display: none;
+}
+
+body {
+    margin: 0;
+    font: 16px $font;
+}
+
+.icon {
+    display: inline-block;
+    height: 20px;
+    vertical-align: top;
+    width: 20px;
+
+    &_logo {
+        width: 50px;
+        height: 29px;
+    }
+}
+
+.box-headline {
+    font-family: $fontBold;
+}
+
+.menu__link {
+    font-family: $fontBook;
+}
+
+.box-intro h5 {
+    font-family: $fontBook;
+}

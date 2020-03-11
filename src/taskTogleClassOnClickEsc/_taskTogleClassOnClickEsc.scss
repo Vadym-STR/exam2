@@ -1,0 +1,7 @@
+.modal {
+    background: gray;
+
+    &:not(#{&_active}) {
+        display: none;
+    }
+}

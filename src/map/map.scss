@@ -1,0 +1,11 @@
+.map {
+    overflow: hidden;
+    height: 700px;
+}
+
+.map__frame {
+    margin-left: -150px;
+    margin-bottom: -20px;
+    height: 100%;
+    filter: grayscale(100%);
+}

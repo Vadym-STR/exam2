@@ -1,0 +1,19 @@
+.socials {
+    display: inline-flex;
+}
+
+.socials__item {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+}
+
+.socials__icons {
+    display: flex;
+
+}
+
+.social__item {
+    margin: 0 10px;
+}
