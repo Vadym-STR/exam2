@@ -7,7 +7,7 @@
         "@material/ripple": "^4.0.0",
         "bootstrap": "^4.4.1",
         "font-awesome": "^4.7.0",
-        "pug": "^2.0.4"
+        "pug": "^3.0.1"
     },
     "devDependencies": {
         "@babel/core": "^7.7.7",
